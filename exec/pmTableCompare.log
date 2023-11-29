@@ -1,0 +1,7 @@
+INFO : Start PMTableCompare Version 0.0.1
+Load class :WNBInifile
+Load class :PMTableCompare
+Load class :TableCompare
+Load class :PMSoapClient
+Tabelle = 
+Load class :PMSoapClient

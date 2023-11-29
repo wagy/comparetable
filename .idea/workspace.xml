@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="db3c7124-9502-4e80-b1a5-d6cb86175a90" name="Default" comment="" />
+    <ignored path="PMTableCompare.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PMTableCompare" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="bootstrap.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#6#88#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bin/php.ini" />
+        <option value="$PROJECT_DIR$/src/include/winbinder.php" />
+        <option value="$PROJECT_DIR$/bin/php-embed.ini" />
+        <option value="$PROJECT_DIR$/src/classVersion.php" />
+        <option value="$PROJECT_DIR$/build/php-embed.ini" />
+        <option value="$PROJECT_DIR$/src/classLogger.php" />
+        <option value="$PROJECT_DIR$/src/pathWrapper.php" />
+        <option value="$PROJECT_DIR$/src/classWNBInifile.php" />
+        <option value="$PROJECT_DIR$/bin/build.cmd" />
+        <option value="$PROJECT_DIR$/test/test.php" />
+        <option value="$PROJECT_DIR$/src/bootstrap.php" />
+        <option value="$PROJECT_DIR$/bin/make_PMTableCompare.cmd" />
+        <option value="$PROJECT_DIR$/src/classPMTableCompare.php" />
+        <option value="$PROJECT_DIR$/exec/PMTableCompare.ini" />
+        <option value="$PROJECT_DIR$/src/classTableCompare.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/src" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1860" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PMTableCompare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PMTableCompare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PMTableCompare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PMTableCompare" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="E:/Software/php56ts/php.exe" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\project\helvetia\PMTableCompare\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.bootstrap.php">
+    <configuration name="bootstrap.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/src/bootstrap.php">
+      <CommandLine workingDirectory="$PROJECT_DIR$/exec" />
+      <option name="workingDirectory" value="E:\phpStorm\workspace\PMTableCompare\exec" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/test/test.php" />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.test.php" />
+      <item itemvalue="PHP Script.bootstrap.php" />
+    </list>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Users\chad0k6\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db3c7124-9502-4e80-b1a5-d6cb86175a90" name="Default" comment="" />
+      <created>1449325645717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1449325645717</updated>
+      <workItem from="1468557555077" duration="2482000" />
+      <workItem from="1468567838444" duration="64000" />
+      <workItem from="1559279410576" duration="363000" />
+      <workItem from="1559279839937" duration="9000" />
+      <workItem from="1559282530496" duration="5000" />
+      <workItem from="1559282761906" duration="10000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1458378643990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1458378643990</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1458378723806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1458378723806</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1458378854403</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1458378854403</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2933000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1860" height="1092" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.15550756" side_tool="true" visible="true" weight="0.22507708" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47016576" weight="0.2488263" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.44429708" visible="true" weight="0.18142548" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5557029" side_tool="true" visible="true" weight="0.18142548" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.84449244" weight="0.22507708" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49573562" weight="0.32921028" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/classVersion.php</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/bootstrap.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/classTableCompare.php</url>
+          <line>56</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/test/test.php</url>
+          <line>8</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/classTableCompare.php</url>
+          <line>506</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/classTableCompare.php</url>
+          <line>546</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classTableCompare.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="95" column="5" selection-start-line="86" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/build.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/php-embed.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/include/wb_generic.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/make_PMTableCompare.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classVersion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/php-embed.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/include/wb_generic.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/make_PMTableCompare.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classVersion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" column="90" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/include/winbinderLib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="131" column="9" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_5.php" />
+    <entry file="file://$PROJECT_DIR$/bin/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/include/winbinder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/include/wb_generic.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/php-embed.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/php-embed.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pathWrapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classVersion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/src/include/PMSoap_3_4_10.phar/lib/PMWsdlClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="291" selection-start-line="291" selection-end-line="291" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/build.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/include/wb_resources.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="218" column="42" selection-start-line="218" selection-start-column="42" selection-end-line="218" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="e#6#88#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/make_PMTableCompare.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/src/include/PMSoap_3_4_10.phar/lib/Object/Type/PMEnumObjectType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/src/include/PMSoap_3_4_10.phar/lib/Table/Type/PMStructTableLayoutColumnType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/src/include/PMSoap_3_4_10.phar/lib/Base/Type/PMStructBaseObjectType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="229" selection-start-line="229" selection-end-line="229" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classLogger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="531" selection-start-line="531" selection-end-line="531" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/build/PMSoap_3_4_10.phar/src/classPMService.php" />
+    <entry file="phar://$PROJECT_DIR$/src/include/PMSoap_3_4_10.phar/lib/Get/Type/PMStructGetInternalTableResponseType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/build/PMSoap_3_4_10.phar/lib/Get/Response/PMStructGetInternalTableResponse.php" />
+    <entry file="file://$PROJECT_DIR$/src/classPMTableCompare.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="275" selection-start-line="275" selection-end-line="275" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/src/include/PMSoap_3_4_10.phar/src/classPMService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1574" column="20" selection-start-line="1574" selection-start-column="20" selection-end-line="1574" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classWNBInifile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="137" column="9" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/src/include/PMSoap_3_4_10.phar/lib/Get/PMServiceGet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="506" column="26" selection-start-line="506" selection-start-column="15" selection-end-line="506" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classTableCompare.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="206" column="98" selection-start-line="206" selection-start-column="98" selection-end-line="206" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exec/PMTableCompare.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
